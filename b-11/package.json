@@ -1,12 +1,11 @@
 {
-  "name": "b-09",
+  "name": "b-11",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx nodemon server.js",
-    "start": "node server.js"
+    "dev": "npx nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,8 +16,6 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.7.4",
-    "mongose": "^0.0.2-security"
-  },
-  "devDependencies": {}
+    "mongoose": "^9.7.4"
+  }
 }
